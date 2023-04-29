@@ -1,0 +1,29 @@
+#######################################
+# Syntax Coloring Map For Test
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+positionalnew	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+setThreshold	KEYWORD2
+setOutputLimits	KEYWORD2
+setPulse	KEYWORD2
+setAggTunings	KEYWORD2
+setSoftTunings	KEYWORD2
+compute	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+targetPulse	LITERAL1
